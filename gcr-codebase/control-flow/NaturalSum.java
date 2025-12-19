@@ -10,5 +10,6 @@ class NaturalSum {
         } else {
             System.out.println("The number " + n + " is not a natural number");
         }
+        sc.close();
     }
 }

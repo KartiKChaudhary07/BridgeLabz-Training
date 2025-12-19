@@ -7,5 +7,7 @@ class LargestCheck {
         System.out.println( (a > b && a > c));
         System.out.println( (b > a && b > c));
         System.out.println( (c > a && c > b));
+        scanner.close();
+
     }
 }
