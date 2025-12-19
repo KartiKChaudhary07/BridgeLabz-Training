@@ -8,5 +8,6 @@ class VoteCheck {
             System.out.println(age);
         else
             System.out.println(age);
+        sc.close();
     }
 }
