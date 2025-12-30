@@ -1,3 +1,4 @@
+package classAndobject;
 class Item {
     String itemCode, itemName;
     double price;

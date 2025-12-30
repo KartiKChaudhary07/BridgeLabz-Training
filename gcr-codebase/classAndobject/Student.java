@@ -1,3 +1,4 @@
+package classAndobject;
 class Student {
     String name, rollNumber;
     double m1, m2, m3;
