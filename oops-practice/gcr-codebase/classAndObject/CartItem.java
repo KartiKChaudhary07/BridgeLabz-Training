@@ -1,4 +1,4 @@
-package classAndobject;
+
 class CartItem {
     String itemName;
     double price;

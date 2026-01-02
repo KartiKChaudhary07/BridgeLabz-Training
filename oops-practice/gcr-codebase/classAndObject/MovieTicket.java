@@ -1,4 +1,4 @@
-package classAndobject;
+
 class MovieTicket {
     boolean booked = false;
 

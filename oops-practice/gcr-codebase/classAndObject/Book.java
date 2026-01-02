@@ -1,4 +1,4 @@
-package classAndobject;
+
 class Book {
     String title, author;
     double price;

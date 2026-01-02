@@ -1,4 +1,3 @@
-package classAndobject;
 class Student {
     String name, rollNumber;
     double m1, m2, m3;
@@ -18,7 +17,7 @@ class Student {
 
     public static void main(String[] args) {
         Student s1 = new Student();
-        s1.name = "Thamarai";
+        s1.name = "Tamari";
         s1.rollNumber = "ECE001";
         s1.m1 = 80; s1.m2 = 70; s1.m3 = 75;
         s1.display();

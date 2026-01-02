@@ -1,13 +1,10 @@
 class Patient {
-
     static String hospitalName = "City Hospital";
     static int totalPatients = 0;
-
     private final String patientID;
     private String name;
     private int age;
     private String ailment;
-
     Patient(String patientID, String name, int age, String ailment) {
         this.patientID = patientID;
         this.name = name;
@@ -15,11 +12,9 @@ class Patient {
         this.ailment = ailment;
         totalPatients++;
     }
-
     static void getTotalPatients() {
         System.out.println("Total Patients Admitted: " + totalPatients);
     }
-
     void displayDetails() {
         if (this instanceof Patient) {
             System.out.println("Hospital Name: " + hospitalName);
@@ -29,11 +24,9 @@ class Patient {
             System.out.println("Ailment: " + ailment);
         }
     }
-
     public static void main(String[] args) {
         Patient p1 = new Patient("P001", "Lathika", 30, "Flu");
         Patient p2 = new Patient("P002", "Lidiya", 45, "Fracture");
-
         getTotalPatients();
         p1.displayDetails();
         p2.displayDetails();

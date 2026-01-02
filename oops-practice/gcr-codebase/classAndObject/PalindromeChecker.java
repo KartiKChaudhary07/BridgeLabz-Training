@@ -1,4 +1,4 @@
-package classAndobject;
+
 class PalindromeChecker {
     String text;
 
