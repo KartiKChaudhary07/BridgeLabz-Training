@@ -1,26 +1,237 @@
-# 🚀BridgeLabz-Training 
+# BridgeLabz Training – Java Full Stack
 
-This repository serves as a workspace for my technical implementations and algorithmic practice, focusing on mastering core programming elements.
-
-----
-## 📂 Folder Structure
-The repository is organized by functional modules. Currently, all foundational logic resides within the ```core-java-practice``` branch.
-```
-BridgeLabz-Training/
-├── core-java-practice/
-│   └── gcr-codebase/
-│       └── programming-elements/ 
-├── leet-code-codebase/
-└── README.md
-```
-
-------
-## 🛠️ Phase 1: Basics & Environment
-This initial stage focuses more on understanding the basics of Git & GitHub and developing hands-on proficiency with version control workflows.
-
-It includes working on branch isolation, synchronizing local changes with GitHub, and resolving conflicts to maintain a clean repository state.
-
-It also includes the foundational programs, such as profit/loss percentage calcuations and temperature conversion, focusing on the precise use of variables, data types and arithmetic operators.
+This repository is a **clean, structured record of my training work at BridgeLabz** under the **Java Full Stack (2025–26)** program. It tracks **daily progress, lab practices, assessments, scenario-based problems, and DSA work**.
 
 ---
-Keep Learning!☕
+
+## Repository Purpose
+
+* Maintain **daily accountability**
+* Organize **GCR (Google Classroom) codebase** topic-wise
+* Separate **practice, scenarios, and LeetCode-style problems**
+* Build a solid, reviewable Java foundation
+
+This repo is meant to be **readable, scalable**.
+
+---
+
+## Daily Progress Log
+
+### December 2025
+
+* **16 Dec** – Repository initialized. Created `core-java-practice` branch  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice
+
+* **17 Dec** – Solved 10 problems from GCR codebase  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase
+
+* **18 Dec** – Programming Elements (Level 1 & 2)  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+
+* **19 Dec** – Control Flow (Level 1, 2 & 3)  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+
+* **20 Dec** – Arrays (Level 1 & 2)  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+
+* **22 Dec** – Strings (Level 1, 2 & 3)  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
+
+* **23 Dec** – Scenario-based problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/scenario-based
+
+* **24 Dec** – Java Methods / extras (Level 1, 2 & 3)  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
+
+* **25 Dec** – Extra String problems  
+  🔗 h https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
+
+* **26 Dec** – Scenario-based problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/scenario-based
+
+* **27 Dec** – Extra problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
+
+* **29 Dec** – Scenario-based problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/core-java-practice/scenario-based
+
+* **30 Dec** – OOP: Line Comparison, Snake & Ladder (Objects & Classes – L1 & L2)  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classAndObject
+
+* **31 Dec** – Constructors & Instance concepts  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/ConstructorAndInstance
+
+---
+
+### January 2025
+
+* **01 Jan** – Java keywords problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Java-Keywords
+
+* **02 Jan** – Object Modeling & Class Diagrams  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classAndObject
+
+* **03 Jan** – Inheritance  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Inheritance
+
+* **05 Jan** – Encapsulation, Polymorphism, Abstraction  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase
+
+* **06 Jan** – Scenario-based OOP problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/scenario-based
+
+
+* **08–13 Jan** – Scenario-based OOP problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/scenario-based
+
+
+* **15–16 Jan** – Sorting Algorithms based questions  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/SortingAlgorithm
+
+* **17 Jan** – Linear search, Binary search, Scenario-based problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Linear-binary-search
+
+* **19 Jan** – Address Book & scenario-based problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/scenario-based
+
+* **21 Jan** – Generics problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/Generics
+
+* **23 Jan** – Collections Framework problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/list-set-queue-map
+
+* **26 Jan** – Streams API problems  
+  🔗 hhttps://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/streams
+
+* **27 Jan** – Exception Handling problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/Exception-handling
+
+* **28 Jan** – Collection-based Scenario problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/scenario-based
+
+* **30 Jan** – Regex problems & Project Refactoring  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/Regex
+
+* **31 Jan** – JUnit Testing problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/junit
+
+---
+
+### February 2025
+
+* **01 Feb** – Annotations, Reflection & Future Logistics Scenario  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/Annoations 
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/Collections-Practice/collection-practice/gcr-codebase/Reflection
+
+* **02 Feb** – CSV File Handling problems  
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/IO-programming-practice/IO-Programming-Practice/gcr-codebase/CSVDataHandling
+
+* **03 Feb** – JSON data handling problems 
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/IO-programming-practice/IO-Programming-Practice/gcr-codebase/json-data-handling
+
+* **04 Feb** – Lambda expression problems
+  🔗 https://github.com/KartiKChaudhary07/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/lambda-expressions
+
+* **05 Feb** – Aero vigil scenario based problem
+  🔗  https://github.com/KartiKChaudhary07/BridgeLabz-Training/blob/dsa-practice/dsa-practice/gcr-codebase/Scenario-based/UserInterface.java
+
+
+---
+
+## Repository Structure
+
+```text
+BridgeLabz-Training/
+│
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── programming-elements/
+│   │   ├── control-flow/
+│   │   ├── arrays/
+│   │   ├── strings/
+│   │   └── methods/
+│   ├── scenario-based/
+│   └── leet-code-codebase/
+│
+├── oops-practice/
+│   ├── gcr-codebase/
+│   │   ├── class-object/
+│   │   ├── constructors/
+│   │   ├── inheritance/
+│   │   ├── encapsulation/
+│   │   ├── polymorphism/
+│   │   └── abstraction/
+│   ├── scenario-based/
+│   └── leet-code-codebase/
+│
+├── dsa-practice/
+│   ├── gcr-codebase/
+│   │   ├── linked-list/
+│   │   ├── sorting-algorithms/
+│   │   ├── stack-queue-hashmap/
+│   │   ├── time-complexity-analysis/
+│   │   └── linear-binary-search/
+│   ├── scenario-based/
+│   └── leet-code-codebase/
+│
+├── collection-practice/
+│   ├── gcr-codebase/
+│   │   ├── annotations/
+│   │   ├── exceptions/
+│   │   ├── generics/
+│   │   ├── junit/
+│   │   ├── list-set-queue-map/
+│   │   ├── reflection/
+│   │   ├── regex/
+│   │   └── streams/
+│   └── scenario-based/
+│
+├── io-programming/
+│   └──  gcr-codebase/
+│       ├── csv-data-handling/
+│       └──  json-data-handling/
+|
+├── java8-features/
+│   ├── gcr-codebase/
+│   │   ├── lambda-expressions/
+│   │   └── streams/
+│   └── scenario-based/
+└── reviews/
+
+```
+
+---
+
+## How to Use This Repo
+
+* Navigate by **topic**, not by date
+* Each folder contains **self-contained Java files**
+* Scenario-based folders focus on **real-world logic**
+
+---
+
+## 🛠️ Technologies Used
+
+- Java
+- Collections Framework
+- DSA
+- OOP Concepts
+- Streams API
+- Regex
+- JUnit
+- Git & GitHub
+
+---
+
+## Status
+
+**Ongoing.** Updated daily as the program progresses.
+
+This repository reflects **discipline, consistency, and depth**, not just completion.
+
+---
+
+## Author
+
+**Parv Agrawal**
+Java | OOPs | DSA | Full Stack (in progress)
