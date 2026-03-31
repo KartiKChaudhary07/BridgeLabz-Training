@@ -233,5 +233,5 @@ This repository reflects **discipline, consistency, and depth**, not just comple
 
 ## Author
 
-**Parv Agrawal**
+**KARTIK CHAUDHARY**
 Java | OOPs | DSA | Full Stack (in progress)
